@@ -1,1 +1,1 @@
-# akash1223
+program to find the sum of number which is divisible by 3
